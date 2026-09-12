@@ -1,226 +1,166 @@
 <div align="center">
 
-# 👋 Hi, I'm Marwan Hassan
+# Marwan Hassan
 
-### 💻 Full Stack .NET Developer | C# | ASP.NET Core | EF Core | SQL Server
+### Full Stack .NET Developer
 
-Building **clean, secure, scalable web applications** with the .NET ecosystem.
+**C# • ASP.NET Core • EF Core • SQL Server • Angular**
+
+Building **secure, scalable, business-driven web applications** with the .NET ecosystem.
 
 <br>
 
 <a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Who I Am
 
-I'm a **Computer & AI student and Full Stack .NET Developer** focused on building real-world web applications using the Microsoft ecosystem.
+I'm a **Computer & AI student and Full Stack .NET Developer** focused on backend engineering and real-world web applications.
 
-My main focus is developing applications with:
+I build applications where **business logic, security, database design and maintainability matter** — not just CRUD screens.
 
-* **C# & .NET**
-* **ASP.NET Core MVC**
-* **ASP.NET Core Web API**
-* **Entity Framework Core**
-* **SQL Server**
-* **Angular**
-* **HTML, CSS & JavaScript**
-* **Git & GitHub**
-* **Docker & Cloud Technologies**
+My primary ecosystem:
 
-I care about more than just making an application work.
+**C# → ASP.NET Core → EF Core → SQL Server → Angular**
 
-I focus on:
-
-> **Clean Code • Security • Maintainability • Performance • Business Logic • Good Architecture**
+I'm actively preparing to contribute to professional development teams as a **Junior Full Stack .NET Developer**.
 
 ---
 
-## 🧠 My .NET Stack
+## ⚡ What I Bring
 
-### Backend
-
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### Data & Database
-
-<p>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Tools & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-</p>
+|                     |                                                         |
+| ------------------- | ------------------------------------------------------- |
+| 🧠 **Backend**      | C#, ASP.NET Core, MVC, Web API, LINQ                    |
+| 🗄️ **Data**        | EF Core, SQL Server, Relationships, Transactions        |
+| 🎨 **Frontend**     | Angular, JavaScript, HTML, CSS                          |
+| 🔐 **Security**     | Authentication, Authorization, Identity, Validation     |
+| 🏗️ **Engineering** | OOP, Clean Code, DI, Repository Pattern, Business Logic |
+| 🚀 **Tools**        | Git, GitHub, Docker, Visual Studio                      |
 
 ---
 
-# 🛠️ What I Build
+## 🏗️ I Build Real Systems
 
-I enjoy building applications that contain **real business logic**, not just simple CRUD operations.
+My portfolio is intentionally built around **real business problems**:
 
-### 🔹 Web Applications
-
-ASP.NET Core MVC applications with:
-
-* Authentication & Authorization
-* Role-based access
-* Validation
-* Business rules
-* Entity relationships
-* Transactions
-* Audit logging
-* Secure data access
-
-### 🔹 REST APIs
-
-Building APIs using:
-
-* ASP.NET Core Web API
-* DTOs
-* Model Validation
-* Dependency Injection
-* Entity Framework Core
-* LINQ
-* Authentication & Authorization
-
-### 🔹 Database Systems
-
-Working with relational databases using:
-
-* SQL Server
-* EF Core
-* Migrations
-* Fluent API
-* Data Annotations
-* Relationships
-* Queries
-* Transactions
-* Stored Procedures
-* Views
-* Functions
-
----
-
-# 🏗️ Featured Projects
-
-## 🏥 ClinicFlow
+### 🏥 ClinicFlow
 
 **Clinic Management System**
 
-A business-oriented clinic management platform designed to simplify daily clinic operations.
+Patients • Doctors • Appointments • Medical Records • Billing • Business Rules
 
-### Core Features
-
-* Patient Management
-* Doctor Management
-* Appointments
-* Medical Records
-* Invoices
-* Payments
-* Departments
-* Scheduling
-* Business Rules
-* Authentication & Authorization
-
-**Tech:** ASP.NET Core MVC • C# • EF Core • SQL Server • HTML • CSS • JavaScript
+`ASP.NET Core MVC` `EF Core` `SQL Server` `C#`
 
 ---
 
-## 🛒 ShopSphere
+### 🛒 ShopSphere
 
 **E-Commerce Platform**
 
-A complete e-commerce application focused on realistic shopping workflows.
+Products • Cart • Orders • Checkout • Inventory • Customers
 
-### Core Features
-
-* Product Management
-* Categories
-* Shopping Cart
-* Orders
-* Checkout
-* Customers
-* Inventory
-* Order Processing
-* Authentication
-
-**Tech:** ASP.NET Core MVC • EF Core • SQL Server • C# • JavaScript
+`ASP.NET Core MVC` `EF Core` `SQL Server` `JavaScript`
 
 ---
 
-## 🎫 HelpDesk Pro
+### 🎫 HelpDesk Pro
 
-**Ticket & Support Management System**
+**Support & Ticketing Platform**
 
-A workflow-driven support platform for managing customer issues and internal support operations.
+Tickets • Roles • Assignment • Workflows • Priorities • Audit History
 
-### Core Features
-
-* Ticket Management
-* Ticket Assignment
-* Priorities
-* Status Workflow
-* Roles & Permissions
-* Comments
-* Ticket History
-* Notifications
-* Audit Trail
-
-**Tech:** ASP.NET Core MVC • EF Core • SQL Server • C#
+`ASP.NET Core` `EF Core` `SQL Server` `C#`
 
 ---
 
-## 💰 FinCore
+### 💳 FinCore
 
 **Financial Management System**
 
-A business-logic-heavy application designed around financial operations.
+Accounts • Transactions • Transfers • Validation • Security • Audit
 
-### Focus
-
-* Accounts
-* Transactions
-* Transfers
-* Validation
-* Business Rules
-* Transaction Safety
-* Audit Logging
-* Role-Based Security
-
-**Tech:** C# • ASP.NET Core • EF Core • SQL Server • MVC
+`ASP.NET Core` `EF Core` `SQL Server`
 
 ---
 
-## 🕵️ CASE ZERO
+### 🕵️ CASE ZERO
 
-### Dig
+**Digital Criminal Investigation Platform**
+
+Cases • Investigations • Evidence • Suspects • Investigators • Workflow • Audit
+
+`ASP.NET Core MVC` `EF Core` `SQL Server` `LINQ`
+
+> **Flagship project focused on complex business logic, security and investigation workflows.**
+
+---
+
+## 🎯 My Engineering Mindset
+
+```text
+Understand the problem
+        ↓
+Design the data
+        ↓
+Model the business rules
+        ↓
+Build secure APIs / MVC
+        ↓
+Validate everything
+        ↓
+Test & improve
+        ↓
+Deploy
+```
+
+I don't aim to write **more code**.
+
+I aim to write **better software**.
+
+---
+
+## 📈 Currently Growing In
+
+**Advanced ASP.NET Core**
+**Web API Development**
+**ASP.NET Core Identity**
+**Angular**
+**Docker**
+**Azure & Cloud**
+**DevOps**
+
+---
+
+## 💼 Looking For
+
+### Junior Full Stack .NET / Backend Opportunities
+
+I'm interested in joining teams where I can:
+
+* Build production software
+* Work with experienced engineers
+* Solve real business problems
+* Improve my backend engineering skills
+* Contribute with clean and maintainable code
+* Grow into a strong **Software Engineer**
+
+---
+
+<div align="center">
+
+### `Build → Learn → Improve → Repeat`
+
+<br>
+
+**If you're looking for a developer who takes software engineering seriously, let's connect.**
+
+</div>
